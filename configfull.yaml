@@ -181,7 +181,7 @@ rule-providers:
   private_domain: {!!merge <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.mrs"}
   Direct：{!!merge <<: *class, url: "https://raw.githubusercontent.com/usamr/rule/refs/heads/main/Direct.list"}
   proxylite: {!!merge <<: *class, url: "https://raw.githubusercontent.com/usamr/rule/refs/heads/main/ProxyLite.list"}
-  ai: {!!merge <<: *class, url: "https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/master/AI.list"}
+  ai: {!!merge <<: *class, url: "https://raw.githubusercontent.com/usamr/rule/refs/heads/main/AI.list"}
   youtube_domain: {!!merge <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.mrs"}
   google_domain: {!!merge <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.mrs"}
   github_domain: {!!merge <<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.mrs"}
