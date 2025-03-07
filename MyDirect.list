@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
+DOMAIN-SUFFIX,apple.com
+
 # 广联达
 DOMAIN-SUFFIX,glodon.com
 DOMAIN-SUFFIX,fwxgx.com
@@ -17,6 +19,7 @@ DOMAIN-SUFFIX,bimface.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
 DOMAIN-KEYWORD,ghp
+
 
 
 # 小米
