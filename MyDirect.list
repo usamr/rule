@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,mysvcs.com
-DOMAIN-SUFFIX,claw.cloud
+
 
 # 广联达
 DOMAIN-SUFFIX,glodon.com
