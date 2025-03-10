@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,claw.cloud
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,qichiyu
-
+DOMAIN-KEYWORD,synology
 
 
 # 国外DNS
