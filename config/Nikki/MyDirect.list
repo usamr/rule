@@ -1,0 +1,37 @@
+
+# 直连补充列表(国内域名不解析时，防止走代理使用)
+
+# MyList
+# 域名后缀匹配
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,msftcomecttest.com
+DOMAIN-SUFFIX,dns.msftncsi.com
+DOMAIN-SUFFIX,ipv6.msftconnecttest.com
+DOMAIN-SUFFIX,mysvcs.com
+DOMAIN-SUFFIX,akile.io
+DOMAIN-SUFFIX,gooooworld.com
+
+
+# 广联达
+DOMAIN-SUFFIX,glodon.com
+DOMAIN-SUFFIX,fwxgx.com
+DOMAIN-SUFFIX,gldzb.com
+DOMAIN-SUFFIX,finglodon.com
+DOMAIN-SUFFIX,bimface.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,mirror
+DOMAIN-KEYWORD,ghp
+DOMAIN-KEYWORD,akile
+
+
+# 小米
+
+
+# 银行
+
+# IP
+#广联达网络锁登陆器
+SRC-IP-CIDR,61.160.207.172/24,no-resolve
+SRC-IP-CIDR,142.171.184.114/24,no-resolve
