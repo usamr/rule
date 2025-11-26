@@ -112,3 +112,7 @@ wx.qlogo.cn
 wxapp.tc.qq.com
 emoji.qpic.cn
 resstatic.servicewechat.com
+
+#虚拟货币
+DOMAIN-SUFFIX,binance.com
+DOMAIN-KEYWORD,binance
