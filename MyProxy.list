@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,wap.ac
 DOMAIN-SUFFIX,claw.cloud
 DOMAIN-SUFFIX,svcloud.one
 DOMAIN-SUFFIX,openwrt.pool.ntp.org
-DOMAIN-SUFFIX,redotpay
+DOMAIN-SUFFIX,redotpay.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
