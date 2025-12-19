@@ -122,14 +122,19 @@ DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,safepal.com
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,trustwallet.com
+DOMAIN-SUFFIX,metamask.io
+
+
+
 
 DOMAIN-KEYWORD,binance
 DOMAIN-KEYWORD,wise
 DOMAIN-KEYWORD,safepal.com
 DOMAIN-KEYWORD,bitget
 DOMAIN-KEYWORD,bybit
-
-
+DOMAIN-KEYWORD,trustwallet
+DOMAIN-KEYWORD,metamask
 
 
 
