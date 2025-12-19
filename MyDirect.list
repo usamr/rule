@@ -118,4 +118,20 @@ DOMAIN-KEYWORD,qq
 
 #虚拟货币
 DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,safepal.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bybit.com
+
 DOMAIN-KEYWORD,binance
+DOMAIN-KEYWORD,wise
+DOMAIN-KEYWORD,safepal.com
+DOMAIN-KEYWORD,bitget
+DOMAIN-KEYWORD,bybit
+
+
+
+
+
+
+
