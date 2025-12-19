@@ -124,7 +124,7 @@ DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,trustwallet.com
 DOMAIN-SUFFIX,metamask.io
-
+DOMAIN-SUFFIX,okx.com
 
 
 
@@ -135,7 +135,7 @@ DOMAIN-KEYWORD,bitget
 DOMAIN-KEYWORD,bybit
 DOMAIN-KEYWORD,trustwallet
 DOMAIN-KEYWORD,metamask
-
+DOMAIN-KEYWORD,okx
 
 
 
