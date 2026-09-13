@@ -1,10 +1,11 @@
+
 #小米
-#DOMAIN,au.ff.avast.sec.miui.com,REJECT
-#DOMAIN-SUFFIX,tracking.miui.com,REJECT
-#DOMAIN-SUFFIX,sa.api.intl.miui.com,REJECT
-#DOMAIN-SUFFIX,data.mistat.xiaomi.com,REJECT
-#DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com,REJECT
-#DOMAIN-SUFFIX,adv.sec.miui.com,REJECT
+DOMAIN,au.ff.avast.sec.miui.com,REJECT
+DOMAIN-SUFFIX,tracking.miui.com,REJECT
+DOMAIN-SUFFIX,sa.api.intl.miui.com,REJECT
+DOMAIN-SUFFIX,data.mistat.xiaomi.com,REJECT
+DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com,REJECT
+DOMAIN-SUFFIX,adv.sec.miui.com,REJECT
 
 
 
