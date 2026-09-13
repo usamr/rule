@@ -4,5 +4,14 @@ DOMAIN-SUFFIX,sa.api.intl.miui.com,REJECT
 DOMAIN-SUFFIX,data.mistat.xiaomi.com,REJECT
 DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com,REJECT
 DOMAIN-SUFFIX,adv.sec.miui.com,REJECT
+
+
+
+
+#CSDN中国软件开发网
 DOMAIN-SUFFIX,csdn.net,REJECT
 DOMAIN-SUFFIX,csdnimg.cn,REJECT
+DOMAIN-KEYWORD,csdn,REJECT
+
+
+
